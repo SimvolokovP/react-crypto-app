@@ -1,0 +1,12 @@
+.btn {
+    background-color: red;
+}
+
+.btn.active {
+    background-color: blue;
+}
+
+.btn:disabled {
+    cursor: grab;
+    background-color: chocolate;
+}
